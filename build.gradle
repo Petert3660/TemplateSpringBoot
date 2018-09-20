@@ -14,7 +14,7 @@ buildscript {
 }
 
 def projectName = "TemplateSpringBoot"
-def projectTitle = "TemplateSpringBoot"
+def projectTitle = "Template Spring Boot"
 def version = "1.0"
 
 apply plugin: 'java'
